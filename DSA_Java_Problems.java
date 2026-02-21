@@ -21,7 +21,7 @@
 
 // 2 <= nums.length <= 3 * 104
 // -231 <= nums[i] <= 231 - 1
-// Each integer in nums will appear twice, only two integers will appear once.
+// Each integer in nums will appear twice, only two integers will appear once.  
 
 import java.util.Arrays;
 import java.util.HashMap;
