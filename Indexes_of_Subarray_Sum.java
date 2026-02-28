@@ -22,7 +22,6 @@ import java.util.ArrayList;
 public class Indexes_of_Subarray_Sum {
     static ArrayList<Integer> subarraySum(int[] arr, int target) {
         int l = 0;
-        int end = 0;
         int sum = 0;
         for(int r=0;r<arr.length;r++){
             sum += arr[r];
