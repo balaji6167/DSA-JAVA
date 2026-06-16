@@ -14,3 +14,19 @@ Each solution includes:
 Clean and optimized Java code
 
 Efficient time & space complexity consideration
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/balaji6167/DSA-JAVA/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/balaji6167/DSA-JAVA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/balaji6167/DSA-JAVA/tree/master/0070-climbing-stairs) |
+<!---LeetCode Topics End-->
